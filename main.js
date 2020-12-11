@@ -13,12 +13,13 @@ class Flake {
         this.y = Math.random() * 800;
         this.r = Math.random() * 5;
         this.dY = Math.random() * 0.7 + 0.5;
+        this.opacity = Math.random() + 0.4;
     }
 
     drawFlake() {
         ctx.beginPath();
         ctx.arc(this.x, this.y, this.r, 0, 2 * Math.PI);
-        ctx.fillStyle = "white";
+        ctx.fillStyle = `rgba(255, 255, 255, ${this.opacity})`;;
         ctx.fill();
         ctx.stroke();
     }
