@@ -1,3 +1,3 @@
 # Snow
 Snow falling JavaScript, HTML5 Canvas
-<video src="youtu.be/bE5zWDofNa4" style="width: 576px; height: 360px; left: 0px; top: -360px;"></video>
+![gif](https://user-images.githubusercontent.com/47197438/120225153-ff328e00-c244-11eb-9975-da21e55529d7.gif)
