@@ -1,5 +1,5 @@
 # Snow
 Snow falling JavaScript, HTML5 Canvas
-<video width="320" height="240" autoplay muted>
-  <source src="youtu.be/bE5zWDofNa4" type="video/mp4">
-</video>
+<iframe width="420" height="315"
+src="https://youtu.be/bE5zWDofNa4">
+</iframe>
